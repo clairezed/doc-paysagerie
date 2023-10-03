@@ -1,6 +1,10 @@
 # Assise des fruitiers dans la ville - Nantes - 7,8 septembre 2023
 
+<details>
+<summary>Panel 1 - Regards croisés de professionnels sur la réintroduction des arbres fruitiers dans la cité</summary>
+
 ## Panel 1 - Regards croisés de professionnels sur la réintroduction des arbres fruitiers dans la cité
+
 
 ### Michel Audouy ([Valhor](https://www.valhor.fr/))
 Valhor : Interprofession des métiers de l'horticulture et du paysage
@@ -86,9 +90,9 @@ Les fruitiers palissés sont mieux entretenus s'ils sont plantés à côté du b
 
 Exemple de Dijon, qui installe des vergers hors des parcs. Les habitants sont impliqués dans la plantation. Une fois les arbres en place, il y a un panneau explicatif qui dit que quand il y aura des fruits tout le monde peut les cueillir.
 
-==D'expérience, dans ces vergers on rencontre 2 types de public :==
-==- familles CSP+ qui font de la pédagogie, explique à leurs enfants la nature,
-- familles CSP- qui viennent compléter leur panier alimentaire.==
+**D'expérience, dans ces vergers on rencontre 2 types de public :**
+- familles CSP+ qui font de la pédagogie, explique à leurs enfants la nature,
+- familles CSP- qui viennent compléter leur panier alimentaire.
 
 A Nantes, certains squares résistent mieux que d'autres.
 
@@ -110,7 +114,10 @@ Pour un jardin forêt, il faut plus de compétences, faire appel à un paysagist
 
 Problème d'attractivité des métiers du jardin, on a des gros déficits, difficultés de recrutement. Il faut raconter des histoires, parler aux jeunes pour qu'ils aient aussi envie de se former.
 
+</details>
 
+<details>
+<summary>Panel 2 - Quelques-uns des multiples visages des arbres (et arbustes) fruitiers dans la cité</summary>
 
 ## Panel 2 - Quelques-uns des multiples visages des arbres (et arbustes) fruitiers dans la cité
 
@@ -190,6 +197,10 @@ Changer les espèces ? Choix porte greffe, diversification...
 Peu concerné.
 Quoiqu'on commence a avoir des démo de robots de désherbage dans les collectivités
 
+</details>
+
+<details>
+<summary>Panel 3 - Regards croisés d’associatifs</summary>
 
 ## Panel 3 - Regards croisés d’associatifs
 
@@ -205,6 +216,10 @@ Sans surprise, quand ils travaillaient avec les villes plutôt qu'avec les locau
 
 Projet avec beaucoup de jeunes, à la surprise des associations présentes dans la salle... Leur tentative d'explication à cette jeunesse (ils s'étonnent que ce ne soit pas le cas en France) : The Orchard Project travaille beaucoup dans les écoles, et manger des fruits c'est aussi quelque chose qui motive pas mal les enfants.
 
+</details>
+
+<details>
+<summary>Atelier 1 - pollution et production fruitière</summary>
 
 ## Atelier 1 - pollution et production fruitière
 
@@ -229,8 +244,8 @@ Mais en commençant l'étude, ils se sont rendu compte que la littérature sur l
 On a évacué les hydrocarbures car a priori, si on en croit la littérature, les fruitiers sont pas concernés par cette pollution, contrairement aux éléments traces métalliques (ETM) (ce qu'on appelle communément métaux lourds).
 
 ### Les questions choisies :
-- Quels niveau de concentration en ETMnm à Bruxelles ?
-- Quels fruits concernés ?
+- Quels niveaux de concentration en ETM à Bruxelles ?
+- Quels fruits sont concernés ?
 - Lavés ou non lavés, ça change qqch ?
 - Liens entre prédicateurs et pollution ?
 
@@ -297,13 +312,16 @@ Cf concept de démocratie technique, qui vise à décloisonner les savoirs et g�
 
 Comment rendre des informations de pollutions publiques sans créer d'affolement ?
 
-Simdemuynck@gmail.com
-
 Site de prélèvement le plus problématique dans l'étude : ancien site de dépôt de sédiments de la senne, sous l'autoroute...
 
 Analyses faites sur les 30 premiers centimètres, car ce serait là que sont les racines qui prennent les nutriments (!= Racines d'ancrage). Mais il y a des hétérogénéité de pollution parfois à 2 mètres près.
 
-+ de personnes qui consomment les fruits qu'on ne le croit ? Là aussi, angle mort sur les pratiques.
+Peut-être il y a + de personnes qui consomment les fruits qu'on ne le croit ? Là aussi, angle mort sur les pratiques.
+
+</details>
+
+<details>
+<summary>Atelier 2 - Cas pratiques de cocréation à Londres… et à Paris</summary>
 
 ## Atelier 2 - Cas pratiques de cocréation à Londres… et à Paris
 
@@ -389,6 +407,10 @@ Il y a des écoles différentes sur la taille (de formation, d'entretien...). Da
 
 Pour un exemple de suivi et d'activité au long cours sur un verger partagé : voir le site du [verger de la sourderie](https://vergerdelasourderie.fr/)
 
+</details>
+
+<details>
+<summary>Atelier 3 - Travaux fruitiers au cours de l’année</summary>
 
 ## Atelier 3 - Travaux fruitiers au cours de l’année
 
@@ -456,6 +478,10 @@ Plus les fruitiers sont différents et dispersés, plus c'est compliqué
 ![Calendrier des soins](calendrier-soins.jpg)
 *Calendrier des soins*
 
+</details>
+
+<details>
+<summary>Panel 3 (suite) : Regards croisés d’associatifs</summary>
 
 ## Panel 3 (suite) : Regards croisés d’associatifs
 
@@ -467,7 +493,8 @@ Square Fleury : projet exemplaire, qui évolue au fur et à mesure des petites s
 
 ### Catheline Pieters et Nadia Tahon ([Velt](https://velt.nu/))
 
-Veld : le champs / VELT -> Association l'Ecologie dans la Vie et dans le Jardinage
+Veld : le champs / VELT -> Association l'Ecologie dans la Vie et dans le Jardinage.
+
 Ce que fait Velt : Formation / publication / projets
 
 Objectifs : créer des quartiers comestibles.
@@ -482,6 +509,10 @@ velt propose aussi :
 - formation guide fruitier
 - fête de la récolte
 
+</details>
+
+<details>
+<summary>Synthèse d'articles scientifiques</summary>
 
 ## Synthèse d'articles scientifiques
 
@@ -509,6 +540,10 @@ Sujets de recherches actuels :
 - verger agroecologique dans un parc agricole à Marseille, Sylvain Agarcart. Verger associatif, en lien avec chercheur. Plan de plantation conçu par chercheurs, pour qu'il serve de terrain d'étude. Les personnes qui entretiennent collecte les donnés. Aussi outil de médiation scientifique. 100 arbres fruitiers, 300 arbustes. Verger vvoum (vergers ouverts urbains métropolitain)
 - sciences sociale, agronomie
 
+</details>
+
+<details>
+<summary>Panel 4 Organiser la conception, la mise en œuvre et l’entretien des paysages comestibles fruitiers dans la cité</summary>
 
 ## Panel 4 Organiser la conception, la mise en œuvre et l’entretien des paysages comestibles fruitiers dans la cité : deux exemples d’itinéraires méthodologiques.
 
@@ -547,6 +582,11 @@ Plus d'infos sur le rapport final de l'enquête : https://www.bfn.de/projektstec
 
 ![Les conclusions floues (au sens premier du terme)](urbane-waldgaerten-IMG_20230908_100511.jpg)
 *Les conclusions floues (au sens premier du terme)*
+
+</details>
+
+<details>
+<summary>Charlotte Mauquois, Pierre Lacroix, Bérengère Le Cocq (Projet ARBRES, Bruxelles)</summary>
 
 ## Charlotte Mauquois, Pierre Lacroix, Bérengère Le Cocq (ARBRES, Bruxelles)
 
@@ -628,6 +668,10 @@ Retour des gens positifs, pour le moment.
 **Meilleur espace de plantation ?**
 PA : La rue ! Dans une optique de résilience, il faut planter aussi hors parcs.
 
+</details>
+
+<details>
+<summary>Visites</summary>
 
 ## Visites
 
@@ -707,7 +751,12 @@ Référent potager : volontaires parmi les agents, qui sont formés sur la saiso
 ![Station gourmande Commerce - bande de petits fruits](station-gourmande-commerce-04.jpeg)
 *Station gourmande Commerce - bande de petits fruits*
 
-### Avec qui j'ai pu discuter sur place :
+</details>
+
+<details>
+<summary>Avec qui j'ai pu discuter sur place</summary>
+
+## Avec qui j'ai pu discuter sur place :
 
 - [Centre Ecologie Urbaine](https://urban-ecology.be/) (Benjamin & Pierre), qui porte le projet d'étude A.R.B.R.E.S sur les fruitiers en ville et des pépinières citoyennes, notamment (échanges très très chouettes, merci à eux :)
 - [Vergers urbains](http://vergersurbains.org/)
@@ -723,6 +772,11 @@ Référent potager : volontaires parmi les agents, qui sont formés sur la saiso
 - Des symposiums sur le Jardin Forêt organisé par Martin Crawford (en anglais), avec des vidéos en ligne
   - [édition 2021](https://www.agroforestry.co.uk/presentations/) :
   - [édition 2023](https://www.agroforestry.co.uk/presentations-2023/)
+
+</details>
+
+<details>
+<summary>Mes retours</summary>
 
 ## Mes retours
 
@@ -753,3 +807,4 @@ Je ressors aussi de là avec des envies :
 - pourquoi pas lancer des sessions de semis participatif, chez les gens ?
 - quand est-ce qu'on monte un réseau des pépinières associatives ?
 
+</details>
